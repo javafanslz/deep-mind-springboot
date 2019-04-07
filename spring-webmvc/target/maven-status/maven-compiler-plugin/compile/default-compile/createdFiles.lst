@@ -1,0 +1,7 @@
+com\channelsoft\springboot\controller\IndexController.class
+com\channelsoft\springboot\config\WebMvcConfig.class
+com\channelsoft\springboot\config\DispatcherServletConfiguration.class
+com\channelsoft\springboot\App.class
+com\channelsoft\springboot\web\support\DefaultAnnotationConfigDispatcherServletInitializer.class
+com\channelsoft\springboot\controller\IndexControllerAdvice.class
+com\channelsoft\springboot\config\WebMvcConfig$1.class
